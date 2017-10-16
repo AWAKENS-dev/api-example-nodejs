@@ -1,6 +1,6 @@
 ## `node`
 
 ```
-$ npm install node-fetch --save
+$ npm install request
 $ node example.js
 ```
